@@ -40,8 +40,8 @@ Step 8. You can additionally type following Cypher code "**MATCH (n) RETURN n**"
     
 ![Screenshot 2023-11-21 at 3 49 10 PM](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/e312b30c-68a8-4481-ad01-e84b50d628eb)
 
-
-
+<br><br>
+---
 
 ## Part 2: Create Google MakerSuite account, train & test prompt in Google MakerSuite and get Google PaLM 2 API-Key
 Step 1. Go to [Google MakerSuite website](https://developers.generativeai.google/products/makersuite), click on "**Go to MakerSuite**" and login via your Gmail account (if you are using business email-id and your administrator has not enabled early-access to applications, then switch to your personal account for this workshop to generate API Key in later steps)
@@ -74,7 +74,15 @@ Step 6. On the "API Keys" page click on "**Create API key in new project**" to g
 
 ![Screenshot 2023-11-21 at 5 17 09 PM](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/548daed4-c60c-40fb-9e1f-18e14bcd06e2)
 
-
+<br><br>
+---
 
 
 ## Part 3: Build things together in Python with Google Colab
+Step 1: Open [Python Notebook](graph_powered_nlp.ipynb) available in this repo in Google Colab and click on "**Open in Colab**" button
+
+![Screenshot 2023-11-21 at 8 58 51 PM](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/e7eda585-2783-4afe-ad76-6dd146e78960)
+
+Step 2: Follow the instructions mentioned for each cell in the python notebook
+
+![Screenshot 2023-11-21 at 9 08 27 PM](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/8388bb40-2db5-4ff4-9768-4d8b3e9c005c)
