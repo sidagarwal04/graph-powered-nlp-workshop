@@ -1,6 +1,6 @@
 # Graph Powered NLP Workshop
 
-Are you ready to dive into the world of graph databases, harness the power of natural language processing (NLP), and build intelligent applications that understand and respond to human queries? Follow this **step-by-step guide** to embark on a thrilling journey that combines the strength of [Google PaLM 2](https://ai.google/discover/palm2/) (within [Google MakerSuite](https://developers.generativeai.google/products/makersuite)), [Neo4j](https://neo4j.com/), and Python and build an intelligent Gen-AI powered Q&A Chatbot.
+Are you ready to dive into the world of graph databases, harness the power of natural language processing (NLP), and build intelligent applications that understand and respond to human queries? Follow this [**step-by-step guide**](step-by-step guide.md) to embark on a thrilling journey that combines the strength of [Google PaLM 2](https://ai.google/discover/palm2/) (within [Google MakerSuite](https://developers.generativeai.google/products/makersuite)), [Neo4j](https://neo4j.com/), and Python and build an intelligent Gen-AI powered Q&A Chatbot.
 
 ## Gen-AI and LLMs
 Generative AI (Gen-AI) refers to a subset of artificial intelligence technologies that can generate new content, including text, images, music, and code, after learning from a vast dataset. These models can create original outputs that have never been seen before, as opposed to simply analyzing or classifying data.
