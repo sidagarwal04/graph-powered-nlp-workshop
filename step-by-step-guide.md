@@ -43,16 +43,16 @@ Step 8. You can additionally type following Cypher code "**MATCH (n) RETURN n**"
 <br><br>
 ---
 
-## Part 2: Create Google MakerSuite account, train & test prompt in Google MakerSuite and get Google PaLM 2 API-Key
-Step 1. Go to [Google MakerSuite website](https://developers.generativeai.google/products/makersuite), click on "**Go to MakerSuite**" and login via your Gmail account (if you are using business email-id and your administrator has not enabled early-access to applications, then switch to your personal account for this workshop to generate API Key in later steps)
+## Part 2: Create Google AI Studio (earlier Google MakerSuite) account, train & test prompt in Google AI Studio and get Google Gemini API-Key
+Step 1. Go to [Google AI Studio website](https://developers.generativeai.google/products/makersuite), click on "**Go to MakerSuite**" and login via your Gmail account (if you are using business email-id and your administrator has not enabled early-access to applications, then switch to your personal account for this workshop to generate API Key in later steps)
 
 ![Screenshot 2023-11-21 at 4 06 00 PM](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/f1b90ece-f44d-48e3-b83c-2a27bc1eadb3)
 
-Step 2. On the MakerSuite homepage, click on "**Create**" under Text Prompt on the homepage
+Step 2. On the Google AI Studio homepage, click on "**Create**" under Text Prompt on the homepage
 
 ![Screenshot 2023-11-21 at 3 53 26 PM](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/ea52d925-33a0-427b-9d6d-f82a4e5e32c6)
 
-Step 3. Copy the contents of sample prompt to generate Neo4j Cypher Code available in [Neo4j_Cypher_Query_Generator_Prompt.txt](Neo4j_Cypher_Query_Generator_Prompt.txt) file in the repo, paste in the Google MakerSuite and click "**Run**" button.
+Step 3. Copy the contents of sample prompt to generate Neo4j Cypher Code available in [Neo4j_Cypher_Query_Generator_Prompt.txt](Neo4j_Cypher_Query_Generator_Prompt.txt) file in the repo, paste in the Google AI Studio and click "**Run**" button.
 
 ![Screenshot 2023-11-21 at 4 54 17 PM](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/8b393d04-c8db-4b66-8c81-0104664f50fb)
 
