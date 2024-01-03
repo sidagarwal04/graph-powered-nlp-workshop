@@ -23,7 +23,7 @@ PaLM-2 is a part of Google's lineage of breakthrough research in machine learnin
 
 Importantly, PaLM-2 has been integrated into nearly 25 Google products, demonstrating its extensive utility and the trust Google places in its performance and reliability. Its applications span a wide range of Google's services, including Gmail and Google Docs, indicating its pervasive influence across the company's product suite​​ ([Source](https://www.cnet.com/tech/computing/palm-2-is-a-major-ai-update-built-into-25-google-products/#:~:text=PaLM%202%20is%20a%20second,Bard%20chatbot%2C%20Gmail%2C%20Google%20Docs)).
 
-Note: PaLM2 API is now replaced with ([Google Gemini API] (https://deepmind.google/technologies/gemini/#introduction)).
+Note: PaLM2 API is now replaced with ([Gemini API](https://deepmind.google/technologies/gemini/#introduction).
 
 ![palm_api_(1)](https://github.com/sidagarwal04/graph-powered-nlp-workshop/assets/2035658/6fd097f3-8d9a-41f0-8af4-259bd2f7e2d8)
 
